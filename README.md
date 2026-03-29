@@ -49,6 +49,8 @@ Me explique em tópicos os pilares fundamentais da Interação Humano Computador
 
 Como o livro de Steve Krug se relaciona com os Princípios Fundamentais da IHC?
 
+Como a área da psicologia se relaciona com IHC?
+
     
 
 
